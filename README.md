@@ -16,7 +16,15 @@
 ![NodeJS](https://img.shields.io/badge/-Node.JS-%230d821f?logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-Express.JS-%230d521f?logo=express.js)
 ![NodeJS](https://img.shields.io/badge/-Vue.JS-%230a821f?logo=vue.js)
+![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
 
 ### __Technologies and Tools__
 ![Docker](https://img.shields.io/badge/-Docker-%231d5dde?logo=docker)
 ![Git](https://img.shields.io/badge/-Git-white?logo=git)
+![DB2](https://img.shields.io/badge/-DB2-%230d521f?logo=db2)
+![PSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
+![MYSQL](https://img.shields.io/badge/-MySQL-orange?logo=mySQL)
+![NoSQL](https://img.shields.io/badge/-NoSQL-white?logo=mongodb)
+![CI/CD](https://img.shields.io/badge/-CI/CD-white?logo=sql)
+![REST](https://img.shields.io/badge/-REST-white?logo=rest)
+
