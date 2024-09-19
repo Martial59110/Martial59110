@@ -25,6 +25,15 @@
 ![PSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
 ![MYSQL](https://img.shields.io/badge/-MySQL-orange?logo=mySQL)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-white?logo=mongodb)
-![CI/CD](https://img.shields.io/badge/-CI/CD-white?logo=sql)
+![CI/CD](https://img.shields.io/badge/-CI/CD-yellow?logo=sql)
 ![REST](https://img.shields.io/badge/-REST-white?logo=rest)
 
+### __Operating Systems__
+
+![Windows](https://img.shields.io/badge/-Windows-purple?logo=microsoft)
+![Linux](https://img.shields.io/badge/-Linux-blue?logo=linux)
+![MacOS](https://img.shields.io/badge/-MacOS-black?logo=macos)
+
+### __Mainframe Operating Systems__
+![z/OS](https://img.shields.io/badge/-z/OS-%233d5dae?logo=z/os)
+![MVS](https://img.shields.io/badge/-MVS-grey?logo=mvs)
