@@ -37,3 +37,11 @@
 ### __Mainframe Operating Systems__
 ![z/OS](https://img.shields.io/badge/-z/OS-%233d5dae?logo=z/os)
 ![MVS](https://img.shields.io/badge/-MVS-grey?logo=mvs)
+
+### __Other Categories__
+![VScode](https://img.shields.io/badge/-VSCode-blue?logo=vscode)
+![VS2022](https://img.shields.io/badge/-VS2022-purple?logo=vscode)
+![Eclipse](https://img.shields.io/badge/-Eclipse-grey?logo=eclipse)
+![Github](https://img.shields.io/badge/-Github-black?logo=github)
+
+
