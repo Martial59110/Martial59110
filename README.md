@@ -45,12 +45,15 @@
 ![VS2022](https://img.shields.io/badge/-VS2022-purple?logo=vscode)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-grey?logo=eclipse)
 ![Github](https://img.shields.io/badge/-Github-black?logo=github)
+![Blender](https://img.shields.io/badge/-Blender-brown?logo=blender)
+![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 
 
 ## 🚀 Latest Projects
+<br>
 
+### 💼&nbsp;  __Mutual insurance in Cobol :__
 
-💼&nbsp;  __Mutual insurance in Cobol :__
 
 __Boboniort__ Project is an application ecosystem aimed at improving the efficiency of internal operations for a fictional mutual insurance company developed in COBOL.
 
@@ -97,7 +100,7 @@ __Boboniort__ Project is an application ecosystem aimed at improving the efficie
 -------------------------------------------
 <br>
 
-🍖&nbsp;  __Restaurant website built with .NET MVC:__
+### 🍖&nbsp;  __Restaurant website built with .NET MVC:__
 
 The "__La Bonne Auberge__" project is an interactive website designed to provide an exceptional culinary experience for a fictional restaurant.
 
@@ -111,6 +114,7 @@ The "__La Bonne Auberge__" project is an interactive website designed to provide
 
 [![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/La-bonne-auberge)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-white?logo=html5)![CSS](https://img.shields.io/badge/-CSS-%2314c9c9?logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)![C#](https://img.shields.io/badge/-C%23-purple?logo=dotnet)![NET](https://img.shields.io/badge/-.NET-%237219d1?logo=dotnet)![MVC](https://img.shields.io/badge/-MVC-red?logo=mvc)![Bootstrap](https://img.shields.io/badge/-Bootstrap-%235818c7?logo=bootstrap)![SQLLite](https://img.shields.io/badge/-SQLite-pink?logo=sqlite)![Windows](https://img.shields.io/badge/-Windows-purple?logo=microsoft)
+
 [![Visit](https://img.shields.io/badge/Visit-My%20Website-black)](https://labonneaubergeapp.azurewebsites.net)
 
 ![Screenshot 1](./Img/HomeLBA-min.png)
@@ -125,6 +129,8 @@ The "__La Bonne Auberge__" project is an interactive website designed to provide
   [![Visit](https://img.shields.io/badge/Visit-My%20Website-black)](https://labonneaubergeapp.azurewebsites.net)
 
 </details>
+
+ 
 &nbsp;&nbsp;
 
 ### 👥  Contributors :
