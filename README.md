@@ -20,6 +20,7 @@
 
 ### __Technologies and Tools__
 ![Docker](https://img.shields.io/badge/-Docker-%231d5dde?logo=docker)
+![MVC](https://img.shields.io/badge/-MVC-red?logo=mvc)
 ![Git](https://img.shields.io/badge/-Git-white?logo=git)
 ![DB2](https://img.shields.io/badge/-DB2-%230d521f?logo=db2)
 ![PSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
@@ -45,3 +46,40 @@
 ![Github](https://img.shields.io/badge/-Github-black?logo=github)
 
 
+
+## 🚀 Latest Projects
+
+
+💼&nbsp;  __Mutual insurance in Cobol :__
+
+Boboniort Project is an application ecosystem aimed at improving the efficiency of internal operations for a fictional mutual insurance company developed in COBOL.
+
+Objective:
+
+    Provide a user-friendly interface for managing member information, contributions, reimbursements, and services.
+    Automate manual processes, including billing, report generation, and processing requests.
+    Ensure quick access to relevant data with search and filtering features.
+
+[![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)&nbsp;&nbsp;&nbsp;&nbsp;
+![Cobol](https://img.shields.io/badge/-Cobol-%231d2dde?logo=cobol)
+![PSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
+
+![Screenshot 1](./Img/Authentification-min.png)
+![Screenshot 2](./Img/Contracts-min.png)
+![Screenshot 3](./Img/Modify-Adherent-min.png)
+
+[![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)
+
+### 👥  Contributors :
+
+[AlexEnCode](https://github.com/AlexEnCode)
+
+[Remi-Debu](https://github.com/Remi-Debu)
+
+[Bafodej](https://github.com/bafodej)
+
+[Isabellem27](https://github.com/isabellem27)
+
+[SafaaKrim](https://github.com/SafaaKrim)
+
+[YvesLevyJo](https://github.com/YvesLevyJo)
