@@ -64,11 +64,20 @@ Objective:
 ![Cobol](https://img.shields.io/badge/-Cobol-%231d2dde?logo=cobol)
 ![PSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
 
-![Screenshot 1](./Img/Authentification-min.png)
-![Screenshot 2](./Img/Contracts-min.png)
-![Screenshot 3](./Img/Modify-Adherent-min.png)
+ ![Screenshot 1](./Img/Authentification-min.png)
+ 
+<details>
+  <summary>Click to view more </summary>
 
-[![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)
+  ![Screenshot 2](./Img/Contracts-min.png)
+  ![Screenshot 3](./Img/Modify-Adherent-min.png)
+
+  [![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)
+
+</details>
+&nbsp;&nbsp;
+
+
 
 ### 👥  Contributors :
 
