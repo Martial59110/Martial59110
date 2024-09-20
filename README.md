@@ -16,6 +16,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node.JS-%230d821f?logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-Express.JS-%230d521f?logo=express.js)
 ![NodeJS](https://img.shields.io/badge/-Vue.JS-%230a821f?logo=vue.js)
+![Nest](https://img.shields.io/badge/-NestJS-%23c7182c?logo=nestjs)
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
 
 ### __Technologies and Tools__
@@ -71,7 +72,8 @@ __Boboniort__ Project is an application ecosystem aimed at improving the efficie
  ![Screenshot 1](./Img/Authentification-min.png)
  
 <details>
-  <summary>Click to view more </summary>
+  <summary  style="color: white; text-shadow: 3px 1px 0px black; font-style: italic;">Click to view more </summary>
+  <br>
 
   ![Screenshot 2](./Img/Contracts-min.png)
   ![Screenshot 3](./Img/Modify-Adherent-min.png)
@@ -79,6 +81,7 @@ __Boboniort__ Project is an application ecosystem aimed at improving the efficie
   [![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)
 
 </details>
+
 &nbsp;&nbsp;
 
 
@@ -120,8 +123,9 @@ The "__La Bonne Auberge__" project is an interactive website designed to provide
 ![Screenshot 1](./Img/HomeLBA-min.png)
  
 <details>
-  <summary>Click to view more </summary>
-
+   <summary  style="color:white; text-shadow: 3px 1px 0px black; font-style: italic;">Click to view more </summary>
+  <br>
+  
   ![Screenshot 2](./Img/reservationLBA-min.png)
   ![Screenshot 3](./Img/reviewLBA-min.png)
 
