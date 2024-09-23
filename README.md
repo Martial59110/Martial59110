@@ -69,7 +69,7 @@ __Boboniort__ Project is an application ecosystem aimed at improving the efficie
 [![Visit](https://img.shields.io/badge/Visit-My%20Project-black)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Cobol](https://img.shields.io/badge/-Cobol-%231d2dde?logo=cobol)![PSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)![Linux](https://img.shields.io/badge/-Linux-blue?logo=linux)
 
- ![Screenshot 1](./Img/Authentification-min.png)
+ [![Screenshot 1](./Img/Authentification-min.png)](https://github.com/Martial59110/Boboniort-Mutual-Insurance)
  
 <details>
   <summary  style="color: white; text-shadow: 3px 1px 0px black; font-style: italic;">Click to view more </summary>
@@ -120,7 +120,7 @@ The "__La Bonne Auberge__" project is an interactive website designed to provide
 
 [![Visit](https://img.shields.io/badge/Visit-My%20Website-black)](https://labonneaubergeapp.azurewebsites.net)
 
-![Screenshot 1](./Img/HomeLBA-min.png)
+[![Screenshot 1](./Img/HomeLBA-min.png)](https://labonneaubergeapp.azurewebsites.net)
  
 <details>
    <summary  style="color:white; text-shadow: 3px 1px 0px black; font-style: italic;">Click to view more </summary>
