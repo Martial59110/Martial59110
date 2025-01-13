@@ -1,5 +1,7 @@
 ### __About me__
+
 Hi, I'm Martial Floquet, a career-switching developer coding for 1.5 years. I focus on COBOL and .NET. Passionate about problem-solving, continuous learning, and teamwork, I aim to grow as a back-end developer. Feel free to reach out for collaborations!
+
 
 ### __Programming Languages__
 ![HTML](https://img.shields.io/badge/-HTML-white?logo=html5)
@@ -53,6 +55,9 @@ Hi, I'm Martial Floquet, a career-switching developer coding for 1.5 years. I fo
 
 
 ## 🚀 Latest Projects
+<details>
+  <summary> 
+🔥 Click here to view my projects! 🔥</summary>
 <br>
 
 ### 💼&nbsp;  __Mutual insurance in Cobol :__
@@ -146,7 +151,10 @@ The "__La Bonne Auberge__" project is an interactive website designed to provide
 [ACH90](https://github.com/ACH90)
 
 -------------------------------------------
+</details>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Martial59110&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Martial59110&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Martial59110&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
