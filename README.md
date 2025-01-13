@@ -1,3 +1,5 @@
+### __About me__
+Hi, I'm Martial Floquet, a career-switching developer coding for 1.5 years. I focus on COBOL and .NET. Passionate about problem-solving, continuous learning, and teamwork, I aim to grow as a back-end developer. Feel free to reach out for collaborations!
 
 ### __Programming Languages__
 ![HTML](https://img.shields.io/badge/-HTML-white?logo=html5)
